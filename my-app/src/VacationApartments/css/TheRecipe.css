@@ -1,0 +1,21 @@
+.displayRecipe{
+    width: 30rem;
+    height: auto;
+    color:rgb(154, 108, 39);
+    font-size: large;
+   text-align: center; 
+    margin-left: 29rem;
+   
+}
+.imageRecipe{
+width: 200px;
+height: auto;
+}
+
+.recipe2{
+    width: auto;
+    height: 10rem;
+}
+.recipe6{
+ margin-left:5rem;
+}

@@ -1,0 +1,40 @@
+.nav {
+    height: 9rem;
+    /* width: 100vw; */
+    font-size: x-large;
+    padding: 1rem 0;
+    margin-left: 120px;
+    margin-right:  32px;
+    justify-content: center;
+    margin-top: 0px;
+    
+}
+#logo{
+    margin-top: 0rem;
+}
+.aaa{
+margin-top: 0%;
+}
+.link {
+    color: black;
+    margin: 2rem;
+    padding: 2rem;
+    text-decoration: none;
+    margin-top: 0rem;
+}
+
+.link:hover {
+    color:rgba(184, 86, 6, 0.543);
+}
+.nameInCardRecipe{
+margin-right:100px;
+}
+
+select{
+    width: 120px;
+    height: auto;
+    font-size: medium;
+}
+.home{
+     margin-left: 10rem; 
+}
